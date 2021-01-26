@@ -1,3 +1,3 @@
 # LEARNYOUNODE Exercises
 
-Source: [title](https://github.com/workshopper/learnyounode)
+Source: [Learnyounode](https://github.com/workshopper/learnyounode)
